@@ -8,3 +8,21 @@ INTEGRANTES :
 * Chavez Bruno Victor Manuel
 
 * Guadalupe Quispe Frank William
+
+Una colleción de recursos de Zero-Shot Learning
+# ¿Por que Zero-Shot Learning?
+
+El desarrollo de modelos de aprendizaje automático pueden realizar funciones predictivas en datos que antes no se habían visto, esto se ha convertido en un área de investigación importante conocida como Zero-Shot Learning. Las personas tenemos la tendencia a ser buenos para reconocer cosas a nuestro alrededor que no hemos vimos antes y Zero-Shot Learning nos ofrece una posible manera para imitar esta capacidad humana.
+
+# Problematica
+
+Durante las últimas décadas, las máquinas se han vuelto mucho más inteligentes, pero sin un conjunto de datos de entrenamiento debidamente etiquetado de las clases vistas, no pueden distinguir entre dos objetos similares. Sin embargo, los humanos son capaces de identificar aproximadamente 30.000 categorías de objetos básicos. En el aprendizaje automático, esto se considera el problema de Zero-shot Learning (ZSL).
+
+# Papers
+
+* An embarrassingly simple approach to zero-shot learning ,Bernardino Romera-Paredes,Philip H. S. Torr [pdf](https://proceedings.mlr.press/v37/romera-paredes15.pdf).
+
+* PP-ShiTu: A Practical Lightweight Image Recognition System [pdf](https://arxiv.org/pdf/2111.00775v1.pdf).
+
+* Zero-Shot Learning - The Good, the Bad and the Ugly ,Yongqin Xian, Bernt Schiele, Zeynep Akata [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf).
+
