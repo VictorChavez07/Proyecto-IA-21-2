@@ -24,5 +24,7 @@ Durante las últimas décadas, las máquinas se han vuelto mucho más inteligent
 
 * PP-ShiTu: A Practical Lightweight Image Recognition System [pdf](https://arxiv.org/pdf/2111.00775v1.pdf).
 
-* Zero-Shot Learning - The Good, the Bad and the Ugly ,Yongqin Xian, Bernt Schiele, Zeynep Akata [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf).
+* A Review of Generalized Zero-Shot Learning Methods [pdf](https://arxiv.org/pdf/2011.08641.pdf).
+
+* Train Once, Test Anywhere: Zero-Shot Learning For Text Classification [pdf](https://arxiv.org/pdf/1712.05972.pdf)
 
